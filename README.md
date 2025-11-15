@@ -1,6 +1,6 @@
 <html>
 <body>
-  <head><link rel="stylesheet" href="styling.css"></head>
+  <head><link rel="stylesheet" href="Styling.css"></head>
 <header>
 <h1>Welcome to My Blog</h1>
 </header>
