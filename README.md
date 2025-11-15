@@ -1,2 +1,49 @@
-# SophiesBlog
-Blog Project
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Basic Static Page</title>
+<style>
+body {
+margin: 0;
+font-family: Arial, sans-serif;
+background: #f5f5f5;
+}
+header {
+background: #333;
+color: white;
+padding: 1rem;
+text-align: center;
+}
+main {
+padding: 2rem;
+}
+footer {
+background: #333;
+color: white;
+padding: 1rem;
+text-align: center;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Welcome to My Static Page</h1>
+</header>
+
+
+<main>
+<p>This is a basic static HTML page template. You can customize this content as needed.</p>
+</main>
+
+
+<footer>
+<p>&copy; 2025 Your Website</p>
+</footer>
+</body>
+</html>
