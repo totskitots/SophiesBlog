@@ -1,2 +1,0 @@
-# SophiesBlog
-Blog Project
