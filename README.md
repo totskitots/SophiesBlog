@@ -1,4 +1,4 @@
-<html lang="en">
+<html>
 <body>
 <header>
 <h1>Welcome to My Static Page</h1>
